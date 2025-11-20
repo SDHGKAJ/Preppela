@@ -1,3 +1,7 @@
+# Backend ignores
+Preppela-backend/node_modules/
+Preppela-backend/.env
+
 # Logs
 logs
 *.log
@@ -17,6 +21,7 @@ dist-ssr
 !.vscode/extensions.json
 .idea
 .DS_Store
+
 *.suo
 *.ntvs*
 *.njsproj
